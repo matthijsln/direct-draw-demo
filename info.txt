@@ -1,0 +1,8 @@
+For windowed version:
+  - Make sure your desktop bpp is 32 bits per pixel
+
+For fullscreen version:
+  - Use Alt+F4 to exit
+  - Don't use ALT+TAB or CTRL+ESCAPE or the intro will crash
+  - If the debug version hangs, *do* try ALT+TAB and switch back
+    again, maybe there's an error messagebox visible then 
